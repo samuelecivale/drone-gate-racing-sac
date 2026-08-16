@@ -1,0 +1,132 @@
+{
+  "Direct": {
+    "0": {
+      "mean_gates": 4.84,
+      "std_gates": 1.9632625906892842,
+      "success_rate": 0.66,
+      "crash_rate": 0.2,
+      "miss_rate": 0.14,
+      "mean_length": 88.55
+    },
+    "1": {
+      "mean_gates": 4.84,
+      "std_gates": 1.901157542130583,
+      "success_rate": 0.66,
+      "crash_rate": 0.19,
+      "miss_rate": 0.15,
+      "mean_length": 77.9
+    },
+    "2": {
+      "mean_gates": 4.85,
+      "std_gates": 2.0560885194952085,
+      "success_rate": 0.73,
+      "crash_rate": 0.14,
+      "miss_rate": 0.08,
+      "mean_length": 139.65
+    }
+  },
+  "Smooth-45": {
+    "0": {
+      "mean_gates": 4.83,
+      "std_gates": 2.0102487408278606,
+      "success_rate": 0.69,
+      "crash_rate": 0.18,
+      "miss_rate": 0.14,
+      "mean_length": 85.02
+    },
+    "1": {
+      "mean_gates": 4.14,
+      "std_gates": 2.116695537860842,
+      "success_rate": 0.48,
+      "crash_rate": 0.08,
+      "miss_rate": 0.45,
+      "mean_length": 74.22
+    },
+    "2": {
+      "mean_gates": 4.71,
+      "std_gates": 2.0702415318025094,
+      "success_rate": 0.66,
+      "crash_rate": 0.13,
+      "miss_rate": 0.21,
+      "mean_length": 80.28
+    }
+  },
+  "Smooth-35": {
+    "0": {
+      "mean_gates": 4.76,
+      "std_gates": 1.9905778055629977,
+      "success_rate": 0.65,
+      "crash_rate": 0.11,
+      "miss_rate": 0.24,
+      "mean_length": 76.39
+    },
+    "1": {
+      "mean_gates": 4.78,
+      "std_gates": 1.9574473172987314,
+      "success_rate": 0.66,
+      "crash_rate": 0.07,
+      "miss_rate": 0.28,
+      "mean_length": 93.97
+    },
+    "2": {
+      "mean_gates": 5.36,
+      "std_gates": 1.6463292501805344,
+      "success_rate": 0.85,
+      "crash_rate": 0.0,
+      "miss_rate": 0.14,
+      "mean_length": 151.29
+    }
+  },
+  "Smooth-30": {
+    "0": {
+      "mean_gates": 4.84,
+      "std_gates": 1.9734234213670416,
+      "success_rate": 0.68,
+      "crash_rate": 0.13,
+      "miss_rate": 0.19,
+      "mean_length": 75.21
+    },
+    "1": {
+      "mean_gates": 5.07,
+      "std_gates": 1.971065701593937,
+      "success_rate": 0.78,
+      "crash_rate": 0.12,
+      "miss_rate": 0.1,
+      "mean_length": 95.28
+    },
+    "2": {
+      "mean_gates": 4.91,
+      "std_gates": 2.035165840908303,
+      "success_rate": 0.74,
+      "crash_rate": 0.1,
+      "miss_rate": 0.16,
+      "mean_length": 98.32
+    }
+  },
+  "Target-Anchored": {
+    "0": {
+      "mean_gates": 4.66,
+      "std_gates": 2.0650423724466282,
+      "success_rate": 0.63,
+      "crash_rate": 0.12,
+      "miss_rate": 0.25,
+      "mean_length": 69.64
+    },
+    "1": {
+      "mean_gates": 4.15,
+      "std_gates": 1.9868316486305528,
+      "success_rate": 0.42,
+      "crash_rate": 0.13,
+      "miss_rate": 0.45,
+      "mean_length": 64.38
+    },
+    "2": {
+      "mean_gates": 4.65,
+      "std_gates": 2.094636006565341,
+      "success_rate": 0.59,
+      "crash_rate": 0.14,
+      "miss_rate": 0.28,
+      "mean_length": 67.27
+    }
+  }
+}
